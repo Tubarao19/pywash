@@ -31,6 +31,6 @@ else:
 
 #variable de resultado resta
 
-print(f'Tiempo de uso:\n {usage_time:.2f}h\n Total a pagar:\n ${price_total:,}')
+print(f'Tiempo de uso:\n {usage_time:.2f} h.min\n Total a pagar:\n ${price_total:,}')
 
 #variable de resultado en costo
